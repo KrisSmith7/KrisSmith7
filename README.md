@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Kris Smith!
-- 👀 I’m a full-stack developer with an emphasis in JavaScript and React.
+- 👋 Hi, I’m Kris Smith! I’m a full-stack developer specializing in front-end with an emphasis in JavaScript and React.
 - 🌱 I’m currently targeting front-end and UX/UI specific roles.
-- 💞️ I’m looking to collaborate on new projects and job opportunities.
+- 👀 I’m looking to collaborate on new projects and job opportunities.
 - 📫 How to reach me: connect with me on linkedin.com/in/kristiansmith220/ or email me at krissmithcodes@gmail.com!
 
 <!---
