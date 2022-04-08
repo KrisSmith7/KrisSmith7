@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @KrisSmith7
-- 👀 I’m interested in trivia and football
-- 🌱 I’m currently learning coding and UX design
-- 💞️ I’m looking to collaborate on coding bootcamp course work
-- 📫 How to reach me: linkedin - @kristiansmith220
+- 👋 Hi, I’m Kris Smith!
+- 👀 I’m a full-stack developer with an emphasis in JavaScript and React.
+- 🌱 I’m currently targeting front-end and UX/UI specific roles.
+- 💞️ I’m looking to collaborate on new projects and job opportunities.
+- 📫 How to reach me: connect with me on linkedin.com/in/kristiansmith220/ or email me at krissmithcodes@gmail.com!
 
 <!---
 KrisSmith7/KrisSmith7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
